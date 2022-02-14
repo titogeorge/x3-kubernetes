@@ -38,7 +38,7 @@ jxRequirements:
   - key: staging
   - key: production
   ingress:
-    domain: change.me
+    domain: 152.70.114.194.nip.io
     kind: ingress
     namespaceSubDomain: -jx.
     tls:

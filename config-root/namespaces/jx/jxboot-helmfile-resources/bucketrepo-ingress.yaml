@@ -19,4 +19,4 @@ spec:
                 name: bucketrepo
                 port:
                   number: 80
-      host: bucketrepo-jx.change.me
+      host: bucketrepo-jx.152.70.114.194.nip.io
